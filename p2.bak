@@ -1,0 +1,6 @@
+#lang racket
+
+(Define pi3.1416)
+
+(define (my_calc value, list)
+(cond
